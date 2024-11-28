@@ -21,7 +21,6 @@
         "ext-simplexml":"*",
         "ext-libxml": "*",
         "ext-json": "*",
-        "ext-bcmath": "*",
         "yansongda/artful": "~1.1.1",
         "yansongda/supports": "~4.0.10"
     },
